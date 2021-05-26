@@ -3,3 +3,5 @@
 BackGround- Basil and Sadhana would like to see the earthquake data in relation to the tectonic plates’ location on the earth, and they would like to see all the earthquakes with a magnitude greater than 4.5 on the map, and they would like to see the data on a third map.
 Using our knowledeg of we had to map major earthquakes around the world. 
 This was truly an interesing challenge!
+<img width="958" alt="End result1" src="https://user-images.githubusercontent.com/76264061/119681264-8952af00-be5f-11eb-930d-2be4be4b5759.png">
+
